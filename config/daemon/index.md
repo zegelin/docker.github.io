@@ -73,7 +73,7 @@ daemon won't start and prints an error message.
 
 To configure the Docker daemon using a JSON file, create a file at
 `/etc/docker/daemon.json` on Linux systems, or `C:\ProgramData\docker\config\daemon.json`
-on Windows. On MacOS go to the whale in the taskbar > Preferences > Daemon > Advanced.
+on Windows. On MacOS go to the whale icon in the menu bar > Preferences > Daemon > Advanced.
 
 Here's what the configuration file looks like:
 
